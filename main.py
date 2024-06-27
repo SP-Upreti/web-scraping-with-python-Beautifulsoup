@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 import html5lib
 
-#this is the url of website we are about to scrap
+#this is the url of website we are about to scrap.
 url = "https://newsummit.edu.np/"
 
 #request is used to load the url html in our program
